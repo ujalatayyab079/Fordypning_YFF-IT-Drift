@@ -1,2 +1,66 @@
 # Fordypning_YFF-IT-Drift
-Denne repositorien brukes til fordypningsuke i IT-drift. Den skal inneholde en README-fil med forklaring av prosjektet, planlegging i GitHub Projects med Kanban board, daglig logg, oppgavetekst, dokumentasjon, skjermbilder og andre filer som blir laget og pushet underveis.
+I denne fordypningsuka skal jeg fordype meg i temaer innen IT-drift. Jeg har valgt å fokusere på **Hacking / Cybersikkerhet** og **Active Directory Domain Services (AD DS)**.
+
+Målet med prosjektet er å lære nye ferdigheter som er nyttige for framtiden, og som jeg kan bruke på CV-en min. All dokumentasjon, oppsett og logg vil bli lagret i dette GitHub-repositoriet.
+
+### Temaer jeg valgte
+- **Tema 1:** Hacking / Cybersikkerhet
+- **Tema 2:** Active Directory Domain Services (AD DS)
+---
+
+## Tema 1: Hacking / Cybersikkerhet
+Jeg er interessert i cybersikkerhet fordi jeg synes det er spennende å forstå hvordan hacking fungerer og hvordan man beskytter systemer. Jeg ønsker å lære grunnleggende konsepter, defensive security og pentesting, samt å bruke praktiske oppgaver fra plattformer som TryHackMe.
+
+**Mål for hacking / cybersikkerhet:**
+- Lære eller repetere grunnleggende cybersikkerhet
+- Utforske defensive security og pentesting
+- Bruke TryHackMe og andre verktøy for praktiske øvelser
+- Lære begrepper som defensive security, pentesting ogv.
+  
+
+
+## Tema 2: Active Directory Domain Services (AD DS)
+Jeg vil jobbe med AD DS fordi jeg allerede har erfaring fra intressegruppen **PowerShell og Active Directory**. Jeg ønsker å kombinere praksis med teori for å forstå det bedre.
+
+**Mål for AD DS:**
+- Lære hvordan Active Directory fungerer
+- Sette opp brukere, grupper og roller i AD
+- Bruke PowerShell til administrasjon og automatisering
+- Research
+- Begrepper
+
+---
+
+## Bruk av Tjenester
+- **TryHackMe** → For praktiske oppgaver i cybersikkerhet  
+- **Word** → For daglig logg og notater  
+- **Kanban board** → For planlegging og oversikt i prosjektet  
+- **GitHub** → For å lagre prosjektet, dokumentasjon, filer og logg  
+- **PowerShell** → For administrasjon og automatisering i Active Directory  
+- **Virtual Machine (VM)** → For å teste og sette opp AD DS sikkert  
+- **NDLA** → For teori og research  
+
+## Bruk av Kilder → Research
+- NDLA
+- Mer kilder skal legges underveis
+
+---
+
+## Prosjektplan / Kanban board
+Plan skal gjennomføres i Kanban board i Github. I "Issues" skal jeg legge skjermbilder med forklaring underveis.
+- **To Do:** Velge kurs/ressurser, lage testmiljø
+- **In Progress:** Gjennomføre oppgaver
+- **Done:** Dokumentere, lage skjermbilder, oppdatere logg
+
+
+
+## Dokumentasjon / Daglig logg
+Hver dag vil jeg skrive i en `Word.fil` med følgende mal:
+**Dato:**  
+- **Hva jeg gjorde:** Kort beskrivelse av dagens arbeid og hva jeg lærte  
+- **Hva jeg skal gjøre neste gang:** Plan for neste dag  
+- **Utfordringer:** Vanskeligheter og hvordan jeg prøvde å løse dem
+
+All dokumentasjon, inkludert skjermbilder, konfigurasjonsfiler og logg, vil bli pushet til GitHub-repositoriet fortløpende.
+
+
