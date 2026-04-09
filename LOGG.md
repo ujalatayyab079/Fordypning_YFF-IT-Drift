@@ -1,6 +1,6 @@
 # Fordypning - IT-Drift: Daglig Logg
 
-### Tirsdag | 08.04.2026
+### Onsdag | 08.04.2026
 
 #### Hva jeg gjorde?
 I dag startet jeg selve prosjektet. Først leste jeg oppgaven nøye for å forstå kravene, og valgte temaene **Hacking / Cybersikkerhet** og **Active Directory Domain Services (AD DS)**. Jeg valgte disse fordi jeg er interessert i hvordan hacking fungerer og hvordan systemer kan beskyttes, og fordi jeg allerede har erfaring med PowerShell og AD fra interessegruppen, og ønsker å kombinere teori og praksis.  
@@ -25,4 +25,29 @@ Det var litt vanskelig å velge selve oppgavene. Men jeg valgte etter å ha gåt
 
 ##### Kanban Board:
 <img width="1255" height="648" alt="image" src="https://github.com/user-attachments/assets/10b5748f-d947-4d13-aa3c-ebab65f2af75" />
+
+##### README.md filer:
+<img width="1346" height="288" alt="image" src="https://github.com/user-attachments/assets/464f020b-480a-4d73-906e-18a5e2aae08b" />
+
+### Torsdag | 09.04.2026
+
+#### Hva jeg gjorde?
+I dag laga jeg først,en markdown fil for oppgave teksten, jeg tenkte siden den reposintory er public , so kanskje andre folk som ser oppgaven mibn vet ikke hv jeg gjør, så lagga jeg i tillege en markdown fill med navn DordypningsOppgave.md. Etter det begynnte jeg med TryHackMe. I denne siden har vi forskjelligje model idag jeg fulførte den første moudelen, jeg skjønte ikke helt hele, men jeg tok notater og oversette de ord jeg skjønte ikke underveis, jeg har også laget bgreper liste for det. Moudel 1 ble fuført på kanban i probjekt , har jeg legga skjermbilder og forklaringer til det jeg har gjort, og den har egen issue altså sub issue i tema 1 hacking / cyberscurity.
+
+
+
+#### Hva skal jeg gjøre videre?
+Neste gang tenker jeg å begynne neste modell jeg ttok lang tid fordi jeg måtte dokuenter , forstå nøye alle ord , yes. og neste gang tneker jeg å bli ferdi med denne første moudel og begynne den andre modelen med god forstårelse av oppgavene
+for AD DS tenker jeg jeg har fredagen så kan jeg gjøre noe med det ellers tenker jeg det er ikke så my tid å jobbe med dette. men min main focus for nå er på tema 1: for at i hverfall jeg kan utdyppe meg sikkelig inn i en av dem. ellers blander jeg hvis jeg gjør begge samtidig.
+#### Utfordring
+Det var litt vanskelig å forstå alt , men det skjer i starten jeg tenker når jeg utdyppe meg in litt mer det kommer til å bli gøy.
+
+#### _Skjermbilder_
+##### Modul 1:
+<img width="1159" height="789" alt="image" src="https://github.com/user-attachments/assets/c667e355-7214-4046-83e1-37f69f329632" />
+
+#### Dokumentasjon underveis:
+<img width="1817" height="880" alt="image" src="https://github.com/user-attachments/assets/b7049688-8d11-4963-847c-e59d291d7214" />
+
+
 
