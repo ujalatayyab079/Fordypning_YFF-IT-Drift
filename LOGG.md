@@ -29,6 +29,7 @@ Det var litt vanskelig å velge selve oppgavene. Men jeg valgte etter å ha gåt
 ##### README.md filer:
 <img width="1346" height="288" alt="image" src="https://github.com/user-attachments/assets/464f020b-480a-4d73-906e-18a5e2aae08b" />
 
+---
 ### Torsdag | 09.04.2026
 
 #### Hva jeg gjorde?
