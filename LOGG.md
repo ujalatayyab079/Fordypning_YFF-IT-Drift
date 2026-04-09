@@ -33,15 +33,19 @@ Det var litt vanskelig å velge selve oppgavene. Men jeg valgte etter å ha gåt
 ### Torsdag | 09.04.2026
 
 #### Hva jeg gjorde?
-I dag laga jeg først,en markdown fil for oppgave teksten, jeg tenkte siden den reposintory er public , so kanskje andre folk som ser oppgaven mibn vet ikke hv jeg gjør, så lagga jeg i tillege en markdown fill med navn DordypningsOppgave.md. Etter det begynnte jeg med TryHackMe. I denne siden har vi forskjelligje model idag jeg fulførte den første moudelen, jeg skjønte ikke helt hele, men jeg tok notater og oversette de ord jeg skjønte ikke underveis, jeg har også laget bgreper liste for det. Moudel 1 ble fuført på kanban i probjekt , har jeg legga skjermbilder og forklaringer til det jeg har gjort, og den har egen issue altså sub issue i tema 1 hacking / cyberscurity.
+I dag laget jeg først en markdown-fil for selve oppgaveteksten. Siden repositoriet er public, tenkte jeg at andre som ser prosjektet mitt kanskje ikke vet hva oppgaven handler om. Derfor laget jeg en egen fil med navnet `FordypningsOppgave.md`.
 
+Etter det begynte jeg med TryHackMe. På siden finnes det forskjellige moduler, og i dag fullførte jeg den første modulen. Jeg forstod ikke alt med en gang, men jeg tok notater underveis og oversatte ord og begreper jeg ikke kjente. Jeg har også laget en liste med viktige begreper fra modulen.
 
+Modul 1 ble markert som fullført i Kanban-boardet i prosjektet mitt. Jeg har også lagt inn skjermbilder og forklaringer til det jeg har gjort. Oppgaven har sin egen issue og sub-issue under tema 1: Hacking / Cybersikkerhet.
 
 #### Hva skal jeg gjøre videre?
-Neste gang tenker jeg å begynne neste modell jeg ttok lang tid fordi jeg måtte dokuenter , forstå nøye alle ord , yes. og neste gang tneker jeg å bli ferdi med denne første moudel og begynne den andre modelen med god forstårelse av oppgavene
-for AD DS tenker jeg jeg har fredagen så kan jeg gjøre noe med det ellers tenker jeg det er ikke så my tid å jobbe med dette. men min main focus for nå er på tema 1: for at i hverfall jeg kan utdyppe meg sikkelig inn i en av dem. ellers blander jeg hvis jeg gjør begge samtidig.
+Neste gang tenker jeg å fortsette med neste modul. Det tok ganske lang tid i dag fordi jeg måtte dokumentere og forstå alle ordene og begrepene nøye. Jeg vil først bli helt ferdig med den første modulen, og deretter begynne på modul 2 med bedre forståelse av oppgavene.
+
+Når det gjelder AD DS, tenker jeg å jobbe mer med det på fredag. Akkurat nå er hovedfokuset mitt tema 1: Hacking / Cybersikkerhet, slik at jeg kan fordype meg skikkelig i ett tema først. Hvis jeg jobber med begge samtidig, tror jeg det kan bli litt forvirrende.
+
 #### Utfordring
-Det var litt vanskelig å forstå alt , men det skjer i starten jeg tenker når jeg utdyppe meg in litt mer det kommer til å bli gøy.
+Det var litt vanskelig å forstå alt i starten, spesielt noen av begrepene og oppgavene. Men jeg tror det blir lettere og mer interessant etter hvert som jeg lærer mer.
 
 #### _Skjermbilder_
 ##### Modul 1:
@@ -50,5 +54,7 @@ Det var litt vanskelig å forstå alt , men det skjer i starten jeg tenker når 
 #### Dokumentasjon underveis:
 <img width="1817" height="880" alt="image" src="https://github.com/user-attachments/assets/b7049688-8d11-4963-847c-e59d291d7214" />
 
+_Andre skjermbilder finner du ved issue_
 
+---
 
