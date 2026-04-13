@@ -1,5 +1,17 @@
 # Fordypning - IT-Drift: Daglig Logg
 
+#### UKE # 15
+
+### Mandag | 06.04.2026
+##### Fri:  Påskeferien
+_Ingen jobbing med prosjektet_
+
+---
+### Tirsdag | 07.04.2026
+##### TirsdagPraksis: På bedriften
+_Ingen jobbing med prosjektet_
+
+---
 ### Onsdag | 08.04.2026
 
 #### Hva jeg gjorde?
@@ -58,3 +70,32 @@ _Andre skjermbilder finner du ved issue_
 
 ---
 
+
+### Fredag | 10.04.2026
+##### IntresseGrupper: Powershell og Active Directory(AD) Med Peter
+_Ingen jobbing med prosjektet_
+
+---
+
+#### UKE # 15
+### Mandag | 06.04.2026
+I dag hadde jeg først plannlegte på kalender alle ukene fram til sommer, det tok ca til klokken 11:30 . HVis jeg har det på klalander da er det lett å ha overskrift over når er hva som er lett for meg. Der etter hadde jeg fulførrt defensiv security intro.  som var gøy som hadde forskjellige temaer
+
+#### Hva jeg gjorde?
+
+#### Hva skal jeg gjøre videre?
+
+
+#### Utfordring
+
+
+#### _Skjermbilder_
+##### Modul 1:
+
+
+#### Dokumentasjon underveis:
+
+
+_Andre skjermbilder finner du ved issue_
+
+---
