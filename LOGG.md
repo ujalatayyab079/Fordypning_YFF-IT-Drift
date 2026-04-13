@@ -112,12 +112,12 @@ Noen ganger er det vanskelig å forstå oppgavene i starten. Jeg tenkte også at
 #### _Skjermbilder_
 ##### Dokumentasjon underveis:
 <img width="1880" height="850" alt="Skjermbilde 2026-04-13 161622" src="https://github.com/user-attachments/assets/ea21bf68-e393-4c90-a1a8-9e602e40e754" />
-Gjerne se resten av skjermbilder / Dokumentasjon i "**PLAN - Fordypning - YFF _ IT-Drift:** https://github.com/users/ujalatayyab079/projects/3/views/2?pane=issue&itemId=173988501&issue=ujalatayyab079%7CFordypning_YFF-IT-Drift%7C3
+Gjerne se resten av Dokumentasjon i "**PLAN - Fordypning - YFF _ IT-Drift:** https://github.com/users/ujalatayyab079/projects/3/views/2?pane=issue&itemId=173988501&issue=ujalatayyab079%7CFordypning_YFF-IT-Drift%7C3 "
 
 #### Notater underveis:
 <img width="1904" height="975" alt="image" src="https://github.com/user-attachments/assets/4275fddd-3f79-4c7f-9156-bfad62816434" />
-Her bruker jeg en app kalles for "Notebook". Jeg tar notater her for å forstår tema godt. Jeg har laga egen **collection** for dette.
+- Her bruker jeg en app kalles for "Notebook". Jeg tar notater her for å forstår tema godt. Jeg har laga egen **collection** for dette.
 
-_Andre skjermbilder finner du ved issue_
+_- Andre skjermbilder finner du ved issue_
 
 ---
