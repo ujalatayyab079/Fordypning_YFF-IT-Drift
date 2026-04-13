@@ -77,24 +77,46 @@ _Ingen jobbing med prosjektet_
 
 ---
 
-#### UKE # 15
+#### UKE #15
 ### Mandag | 06.04.2026
-I dag hadde jeg først plannlegte på kalender alle ukene fram til sommer, det tok ca til klokken 11:30 . HVis jeg har det på klalander da er det lett å ha overskrift over når er hva som er lett for meg. Der etter hadde jeg fulførrt defensiv security intro.  som var gøy som hadde forskjellige temaer
 
 #### Hva jeg gjorde?
+I dag hadde jeg først planlagt i kalenderen alle ukene fram til sommer. Det tok ca. til klokken 11:30. Hvis jeg har det på kalender, er det lettere for meg å få oversikt over når alt skal gjøres, og det gjør planleggingen enklere.
+
+Deretter fullførte jeg **Defensive Security intro**. Det var gøy og inneholdt flere temaer som:
+- Think like a defender  
+- Detect suspicious activity  
+- Identify the attack  
+- Stop the attack  
+
+Dette temaet hadde også en virtuell maskin (VM) der man simulerte et angrep på en bank og lærte hva som skjer under et angrep og hvordan man analyserer det.
+
+Etter dette startet jeg på temaet **Search Skills**, som jeg synes er veldig spennende. Denne modulen var ganske stor, så jeg rakk bare å gjøre to deler: **Introduction** og **Evaluation of search results**. Jeg syntes dette var interessant fordi jeg aldri har tenkt over hvordan søk på internett fungerer og hvordan man vurderer informasjon.
+
+I starten var det vanskelig å forstå alt, men etter hvert begynte jeg å forstå mer. Underveis tok jeg notater og dokumenterte alt i en GitHub *issue*, hvor jeg la inn skjermbilder av det jeg gjorde. Jeg skrev også ned vanskelige ord jeg ikke forsto, slik at jeg kunne lære dem senere.
+
+Det tar litt tid for meg fordi jeg vil forstå oppgavene grundig før jeg går videre, men det hjelper meg å lære bedre.
+
+---
 
 #### Hva skal jeg gjøre videre?
+Siden jeg ikke ble helt ferdig med den første modulen, skal jeg fortsette neste gang og fullføre den. Målet mitt er ikke å gå fort, men å ha god forståelse for det jeg gjør.
 
+**Search Skills** har 8 tasks, og målet mitt er å bli ferdig med disse innen onsdag med god forståelse. Hvis jeg blir ferdig, kan jeg begynne på neste modul.
+
+---
 
 #### Utfordring
-
+Noen ganger er det vanskelig å forstå oppgavene i starten. Jeg tenkte også at dette kanskje er litt for teoretisk og at jeg ikke får gjort så mye praktisk arbeid. Men jeg tror det er nyttig å lære grunnleggende cybersikkerhet først, fordi det gjør det lettere å forstå mer avanserte temaer senere, som hacking og sikkerhet generelt.
 
 #### _Skjermbilder_
-##### Modul 1:
+##### Dokumentasjon underveis:
+<img width="1880" height="850" alt="Skjermbilde 2026-04-13 161622" src="https://github.com/user-attachments/assets/ea21bf68-e393-4c90-a1a8-9e602e40e754" />
+Gjerne se resten av skjermbilder / Dokumentasjon i "**PLAN - Fordypning - YFF _ IT-Drift:** https://github.com/users/ujalatayyab079/projects/3/views/2?pane=issue&itemId=173988501&issue=ujalatayyab079%7CFordypning_YFF-IT-Drift%7C3
 
-
-#### Dokumentasjon underveis:
-
+#### Notater underveis:
+<img width="1904" height="975" alt="image" src="https://github.com/user-attachments/assets/4275fddd-3f79-4c7f-9156-bfad62816434" />
+Her bruker jeg en app kalles for "Notebook". Jeg tar notater her for å forstår tema godt. Jeg har laga egen **collection** for dette.
 
 _Andre skjermbilder finner du ved issue_
 
