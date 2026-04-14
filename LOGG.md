@@ -121,3 +121,9 @@ Gjerne se resten av Dokumentasjon i "**PLAN - Fordypning - YFF _ IT-Drift:** htt
 _- Andre skjermbilder finner du ved issue_
 
 ---
+
+### Tirsdag | 07.04.2026
+##### TirsdagPraksis: På bedriften
+_Ingen jobbing med prosjektet_
+
+---
