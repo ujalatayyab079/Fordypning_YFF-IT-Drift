@@ -131,62 +131,66 @@ _Ingen jobbing med prosjektet_
 ### Onsdag | 08.04.2026
 
 #### Hva jeg gjorde?
--I dag jobba jeg videre med "Search Skills" . Siden jeg var ferdi med Task 1 og Task 2. Begynte jeg med Task 3 . Search engines - task 3 handler om search engines , i denne tema hadde dt forkjellig tricks som jeg lærte jeg ble veldig imponert av det fordi jeg viste ikke man kunne søke sånn også. 
-Først og fremst så er det  "" comma , du skriver hva som heltst i nettleseren inni comma så kommer det  nøyaktig setning av det .
-den andre er site:  , det gjør at du kan søke en bestemt nettside, 
-tredje - binnestrek / minus du bruker det før ordet så dukker det ikke opp den ordet
-fjerde : fletype: hvis d skriver det og skriver filtype som pdf eller ptp så kommer det nøyaktig filen pdf eller powepoinmt
-altså:
-"tekst" = søk etter nøyaktig setning
-"cyber security basics"  =  
-Søkemotoren finner akkurat denne setningen
-Ordene må stå i samme rekkefølge     Hvis man skrive bare  (cyber security basics) uten "" da kan komme hva som helst
+I dag jobbet jeg videre med **Search Skills**. Siden jeg allerede var ferdig med Task 1 og Task 2, begynte jeg med **Task 3: Search Engines**. Denne oppgaven handlet om hvordan søkemotorer fungerer, og jeg lærte flere forskjellige søketriks som jeg ikke visste om fra før. Jeg ble veldig imponert, fordi jeg ikke visste at man kunne søke på så mange forskjellige måter.
 
+Jeg lærte blant annet disse viktige søkeoperatorene:
 
-site: = søk på en bestemt nettside
-Hvis man vil gå på en bestemt site  = site:ndla.no cybersikkerhet = 
-Dette betyr at : 
-Du søker bare på ndla.no
-Om temaet cybersikkerhet
+- **"tekst" (anførselstegn)** → brukes for å søke etter en nøyaktig setning  
+  Eksempel: "cyber security basics"  
+  Da finner søkemotoren akkurat denne setningen i riktig rekkefølge. Hvis man ikke bruker "", kan ordene komme i tilfeldig rekkefølge.
 
--ord = fjern ord fra søket
---- Hvis man vil ha bare resultat om et bestemt ting men ikke mer noe ant om det altså : fjern noe du ikke vil se i resultatene
-f.eks. apple -fruit = Apple (teknologi, iphone, ogv.) ikke resultater om frukt..
+- **site:** → brukes for å søke på en bestemt nettside  
+  Eksempel: site:ndla.no cybersikkerhet  
+  Dette betyr at jeg kun får resultater fra ndla.no som handler om cybersikkerhet.
 
-filetype: = finn spesifikke filer (pdf, ppt, doc)
-E.G:  Hvis man vil ha PDF filer så søker man  filetype:pdf cyber sikkerhet
+- **-ord (minus)** → brukes for å fjerne noe fra søket  
+  Eksempel: apple -fruit  
+  Da får jeg resultater om Apple som teknologi (iPhone osv.), men ikke om frukt.
 
-Da hadde jeg også spørsmål inni den , hvis det blir vanskelig så søker jeg på nette ellers er det mest handler om tema du går gjennom, det var veldig spennende å lære om disse tricks så nå kan jeg bruke den hverdag..
+- **filetype:** → brukes for å finne spesifikke filer  
+  Eksempel: filetype:pdf cyber security  
+  Da får jeg kun PDF-filer om cybersikkerhet.
 
-Etter å bli ferdig med den jeg begynte på task 4 : Specialized search engines: i denne lærte jeg om forskjellige nettsider som SHODAN , CENCYS, VIRUSTOTAL OG HAVE I BEEN PWNED... 
-disse nettsidene var veldig gøy åutforske, underveis jeg testa dem også hvordan den fungerer
+Jeg synes dette var veldig nyttig, og jeg kan bruke disse søketriksene både i skolearbeid og ellers når jeg søker etter informasjon.
 
-shodan er jo da en  søkemotor for maskiner og systemer på internett
-cencys er også en søkemotot men for internett. systemer og sikkrhets data
-VirusTotal er jo da en verktøy som sjekker om noe er virus eller trygt
-Have i been pawned er jo da  en  nettside som skjekker om dataene din har blitt likket, det vil si du legger epost addresse så skjekker den for deg
-disse nettsidene var veldig gøy å utforske... og det var veldig sppennende
+Etter Task 3 begynte jeg på **Task 4: Specialized Search Engines**. Her lærte jeg om forskjellige spesialiserte søkemotorer og verktøy som brukes i cybersikkerhet. Jeg utforsket disse:
 
-etter dette begynte jeg på TASK 5  som er da Vulneraabillitties and exploeit, der jeg lærte også om two forskjelligje nettleser. CVE og EXPLOIT DATABASE
-CVE er jo da for det er en ID system for de kjente sikkerhetsfeil i profgramvare
-og Exploit Database er en nettside som samler kjente exploits (metoder, kode som kan utnytte sikkerhetsfeil)
+- **Shodan** → en søkemotor for maskiner og systemer på internett  
+- **Censys** → en søkemotor for internett-systemer og sikkerhetsdata  
+- **VirusTotal** → et verktøy som sjekker om filer, lenker eller IP-adresser er trygge eller inneholder virus  
+- **Have I Been Pwned** → en nettside som sjekker om e-post eller data har blitt lekket i datainnbrudd  
 
-i dag jeg vfikk bare gjort til task 5 fordi jeg måtte forstå dem nøye teste undervis dokumenetere ta screenshts og alt det der skrive logg, 
-jeg sysnes jeg fikk lært så mye idag om masse forsigje ting
-alle trick for netselen
-og om søkemotorene
-som SHODAN CENCYS VIRUSTOTAL,  HAV I BEEN PWNEND, CVE og EXPLOINT DATABESE og jeg sysnes det var en ganske bara arbeid
+Jeg syntes det var veldig spennende å teste disse verktøyene selv og se hvordan de fungerer i praksis.
+
+Etter dette begynte jeg på **Task 5: Vulnerabilities and Exploits**. Her lærte jeg om viktige begreper innen cybersikkerhet:
+
+- **CVE (Common Vulnerabilities and Exposures)** → et system som gir ID til kjente sikkerhetsfeil i programvare  
+- **Exploit Database** → en database med kjente metoder (exploits) som brukes for å utnytte sikkerhetsfeil  
+
+Jeg brukte en del tid på å forstå disse begrepene godt, siden det er viktig for videre læring innen hacking og sikkerhet.
+
+I dag fikk jeg jobbet frem til Task 5. Grunnen til at jeg ikke rakk mer, er fordi jeg brukte tid på å forstå alt nøye, teste oppgavene, dokumentere arbeidet mitt, ta screenshots og skrive logg.
+
+Jeg føler at jeg lærte veldig mye i dag, spesielt:
+- hvordan man søker smartere på internett  
+- hvordan forskjellige søkemotorer fungerer  
+- grunnleggende begreper innen cybersikkerhet  
+
+Jeg synes dette var en veldig bra og lærerik arbeidsøkt.
 
 ---
 
 #### Hva skal jeg gjøre videre?
- 
- jeg tenker å blir ferdi med search skills med en god forståerlese og jeg skal går som jeg går , ved å frstå alt nøye og skrive notater underveis, på tordag tenker jeg å jobber med task 6 7 og 8 OG BLI FERDIG MED DET .
+Neste gang planlegger jeg å bli ferdig med hele **Search Skills**-modulen. Jeg vil fortsette å jobbe på samme måte, der jeg fokuserer på å forstå alt godt og skriver notater underveis.
+
+På torsdag er målet mitt å jobbe med **Task 6, 7 og 8**, og fullføre modulen.
 
 ---
 
 #### Utfordring
-Jeg sysnes jeg skjønte ikke alt i det nettsidene saltså søke motorene jeg utforsket men jeg forsatt ga ikke oppp og gikk videre med dette. det er litt vanskelig p forstå alt med en gang , men det er bare å prøve , det er det jeg lærte veldig godt idag
+Jeg synes det var litt vanskelig å forstå alt med en gang, spesielt når jeg jobbet med de forskjellige søkemotorene og nye begreper. Noen ting var litt kompliserte i starten.
+
+Likevel ga jeg ikke opp, og jeg fortsatte å jobbe videre. Jeg har lært at det er helt normalt at ting er vanskelig i starten, og at det viktigste er å prøve og jobbe seg gjennom det. Etter hvert blir det lettere å forstå.
 
 #### _Skjermbilder_
 ##### Hvordan jeg jobbet:
