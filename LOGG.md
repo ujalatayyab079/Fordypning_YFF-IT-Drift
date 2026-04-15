@@ -127,3 +127,70 @@ _- Andre skjermbilder finner du ved issue_
 _Ingen jobbing med prosjektet_
 
 ---
+
+### Onsdag | 08.04.2026
+
+#### Hva jeg gjorde?
+-I dag jobba jeg videre med "Search Skills" . Siden jeg var ferdi med Task 1 og Task 2. Begynte jeg med Task 3 . Search engines - task 3 handler om search engines , i denne tema hadde dt forkjellig tricks som jeg lærte jeg ble veldig imponert av det fordi jeg viste ikke man kunne søke sånn også. 
+Først og fremst så er det  "" comma , du skriver hva som heltst i nettleseren inni comma så kommer det  nøyaktig setning av det .
+den andre er site:  , det gjør at du kan søke en bestemt nettside, 
+tredje - binnestrek / minus du bruker det før ordet så dukker det ikke opp den ordet
+fjerde : fletype: hvis d skriver det og skriver filtype som pdf eller ptp så kommer det nøyaktig filen pdf eller powepoinmt
+altså:
+"tekst" = søk etter nøyaktig setning
+"cyber security basics"  =  
+Søkemotoren finner akkurat denne setningen
+Ordene må stå i samme rekkefølge     Hvis man skrive bare  (cyber security basics) uten "" da kan komme hva som helst
+
+
+site: = søk på en bestemt nettside
+Hvis man vil gå på en bestemt site  = site:ndla.no cybersikkerhet = 
+Dette betyr at : 
+Du søker bare på ndla.no
+Om temaet cybersikkerhet
+
+-ord = fjern ord fra søket
+--- Hvis man vil ha bare resultat om et bestemt ting men ikke mer noe ant om det altså : fjern noe du ikke vil se i resultatene
+f.eks. apple -fruit = Apple (teknologi, iphone, ogv.) ikke resultater om frukt..
+
+filetype: = finn spesifikke filer (pdf, ppt, doc)
+E.G:  Hvis man vil ha PDF filer så søker man  filetype:pdf cyber sikkerhet
+
+Da hadde jeg også spørsmål inni den , hvis det blir vanskelig så søker jeg på nette ellers er det mest handler om tema du går gjennom, det var veldig spennende å lære om disse tricks så nå kan jeg bruke den hverdag..
+
+Etter å bli ferdig med den jeg begynte på task 4 : Specialized search engines: i denne lærte jeg om forskjellige nettsider som SHODAN , CENCYS, VIRUSTOTAL OG HAVE I BEEN PWNED... 
+disse nettsidene var veldig gøy åutforske, underveis jeg testa dem også hvordan den fungerer
+
+shodan er jo da en  søkemotor for maskiner og systemer på internett
+cencys er også en søkemotot men for internett. systemer og sikkrhets data
+VirusTotal er jo da en verktøy som sjekker om noe er virus eller trygt
+Have i been pawned er jo da  en  nettside som skjekker om dataene din har blitt likket, det vil si du legger epost addresse så skjekker den for deg
+disse nettsidene var veldig gøy å utforske... og det var veldig sppennende
+
+etter dette begynte jeg på TASK 5  som er da Vulneraabillitties and exploeit, der jeg lærte også om two forskjelligje nettleser. CVE og EXPLOIT DATABASE
+CVE er jo da for det er en ID system for de kjente sikkerhetsfeil i profgramvare
+og Exploit Database er en nettside som samler kjente exploits (metoder, kode som kan utnytte sikkerhetsfeil)
+
+i dag jeg vfikk bare gjort til task 5 fordi jeg måtte forstå dem nøye teste undervis dokumenetere ta screenshts og alt det der skrive logg, 
+jeg sysnes jeg fikk lært så mye idag om masse forsigje ting
+alle trick for netselen
+og om søkemotorene
+som SHODAN CENCYS VIRUSTOTAL,  HAV I BEEN PWNEND, CVE og EXPLOINT DATABESE og jeg sysnes det var en ganske bara arbeid
+
+---
+
+#### Hva skal jeg gjøre videre?
+ 
+ jeg tenker å blir ferdi med search skills med en god forståerlese og jeg skal går som jeg går , ved å frstå alt nøye og skrive notater underveis, på tordag tenker jeg å jobber med task 6 7 og 8 OG BLI FERDIG MED DET .
+
+---
+
+#### Utfordring
+Jeg sysnes jeg skjønte ikke alt i det nettsidene saltså søke motorene jeg utforsket men jeg forsatt ga ikke oppp og gikk videre med dette. det er litt vanskelig p forstå alt med en gang , men det er bare å prøve , det er det jeg lærte veldig godt idag
+
+#### _Skjermbilder_
+##### Hvordan jeg jobbet:
+<img width="2553" height="1380" alt="image" src="https://github.com/user-attachments/assets/ea8efbf4-0311-4f84-a6d5-99e250694968" />
+
+
+_- Andre skjermbilder finner du ved issue_
