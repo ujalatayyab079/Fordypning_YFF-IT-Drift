@@ -78,7 +78,7 @@ _Ingen jobbing med prosjektet_
 ---
 
 #### UKE #15
-### Mandag | 06.04.2026
+### Mandag | 13.04.2026
 
 #### Hva jeg gjorde?
 I dag hadde jeg først planlagt i kalenderen alle ukene fram til sommer. Det tok ca. til klokken 11:30. Hvis jeg har det på kalender, er det lettere for meg å få oversikt over når alt skal gjøres, og det gjør planleggingen enklere.
@@ -122,13 +122,13 @@ _- Andre skjermbilder finner du ved issue_
 
 ---
 
-### Tirsdag | 07.04.2026
+### Tirsdag | 14.04.2026
 ##### TirsdagPraksis: På bedriften
 _Ingen jobbing med prosjektet_
 
 ---
 
-### Onsdag | 08.04.2026
+### Onsdag | 15.04.2026
 
 #### Hva jeg gjorde?
 I dag jobbet jeg videre med **Search Skills**. Siden jeg allerede var ferdig med Task 1 og Task 2, begynte jeg med **Task 3: Search Engines**. Denne oppgaven handlet om hvordan søkemotorer fungerer, og jeg lærte flere forskjellige søketriks som jeg ikke visste om fra før. Jeg ble veldig imponert, fordi jeg ikke visste at man kunne søke på så mange forskjellige måter.
@@ -198,3 +198,43 @@ Likevel ga jeg ikke opp, og jeg fortsatte å jobbe videre. Jeg har lært at det 
 
 
 _- Andre skjermbilder finner du ved issue_
+
+---
+
+### Torsdag | 16.04.2026
+
+#### Hva jeg gjorde?
+I dag fortsatte jeg med temaet **Search Skills**. Siden jeg allerede var ferdig med opp til task 5, startet jeg direkte på task 6 så fort som mulig. Tiden i dag var ganske kort (ca. 10:30–11:15), og siden jeg også må bruke rundt 15 minutter på logg, hadde jeg egentlig bare ca. 30 minutter til å jobbe effektivt.
+
+I løpet av den tiden klarte jeg å fullføre task 6. Jeg dokumenterte arbeidet mitt underveis ved å legge inn skjermbilder og forklaringer i en GitHub issue. Jeg skrev også ned nye begreper og ord jeg ikke forstod, slik at jeg kan lære dem bedre senere.
+
+Task 6 handlet om **Technical Documentation**, og tok for seg temaer som:
+- Linux manual pages  
+- Microsoft Windows dokumentasjon  
+- Produktdokumentasjon  
+
+Jeg lærte blant annet nye kommandoer som:
+- `netstat -b`  
+- `cat`  
+- `man ip`  
+
+Underveis testet jeg kommandoene selv i terminalen, og tok skjermbilder av resultatene som jeg la inn i issue for dokumentasjon. Jeg syntes dette var interessant fordi jeg både lærte nye kommandoer og fikk teste dem i praksis. Selv om tiden var kort, er jeg fornøyd med at jeg fikk gjort noe og lært noe nytt.
+
+---
+
+#### Hva skal jeg gjøre videre?
+Neste gang planlegger jeg å fullføre hele **Search Skills**-modulen. Jeg vil fortsette å jobbe på samme måte, hvor jeg fokuserer på å forstå oppgavene godt, samtidig som jeg skriver notater og dokumenterer underveis.
+
+Siden dette egentlig var siste dag med arbeid i prosjektperioden, må jeg jobbe videre med dette senere når det blir vurdering, og sørge for at alt er ferdig dokumentert.
+
+---
+
+#### Utfordring
+I dag var det ikke så mange store utfordringer, men det var fortsatt litt vanskelig å forstå alt med en gang. Jeg merker også at jeg bruker litt lang tid på oppgaver, men jeg synes det er bra fordi jeg heller vil forstå temaene ordentlig enn å gjøre ting raskt uten å lære.
+#### _Skjermbilder_
+##### Hvordan jeg jobbet:
+<img width="2529" height="1385" alt="image" src="https://github.com/user-attachments/assets/4d281bb6-c637-407d-bd10-4f6cdc3536f8" />
+
+_- Andre skjermbilder finner du ved issue_
+
+
