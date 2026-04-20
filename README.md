@@ -63,4 +63,80 @@ Hver dag vil jeg skrive i en `Word.fil` med følgende mal:
 
 All dokumentasjon, inkludert skjermbilder, konfigurasjonsfiler og logg, vil bli pushet til GitHub-repositoriet fortløpende.
 
+---
 
+# Uke # 17: YFF - OPPDRAG
+Jeg skal i dette prosjektet lage en enkel informasjonsnettside om cybersikkerhet. Nettsiden skal vise hva jeg har lært gjennom fordypning i TryHackMe og egen research innen IT-drift.
+
+Prosjektet kombinerer teori og praktisk arbeid, og alt arbeid skal dokumenteres og lastes opp til GitHub.
+
+
+
+## Hva jeg skal gjøre
+
+- Lage en informasjonsnettside om cybersikkerhet  
+- Forklare grunnleggende konsepter innen IT-sikkerhet  
+- Inkludere offensive og defensive security  
+- Forklare hva pentesting er  
+- Lage en enkel risikovurdering  
+- Dokumentere hele prosessen med logg og skjermbilder  
+- Laste opp alt til GitHub  
+
+---
+
+## Innhold i nettsiden
+
+### 1. Intro til Cyber Security
+Kort forklaring av hva cybersikkerhet er og hvorfor det er viktig.
+
+### 2. Offensive Security
+Forklaring av hvordan etisk hacking brukes til å finne svakheter i systemer (pentesting).
+
+### 3. Defensive Security
+Forklaring av hvordan systemer beskyttes mot angrep (firewall, antivirus, oppdateringer).
+
+### 4. Pentesting
+Kort forklaring av penetration testing og hvordan sikkerhet testes i praksis.
+
+### 5. Risikovurdering
+En enkel vurdering av hva som kan gå galt i et digitalt system:
+
+- phishing  
+- svake passord  
+- brukerfeil  
+
+For hver risiko skal jeg forklare:
+- hva som kan skje  
+- hvor alvorlig det er  
+- hvordan det kan løses  
+
+
+
+## Bruk av programmer og verktøy
+
+- HTML → struktur på nettsiden  
+- CSS → design og layout  
+- GitHub → lagring, logg og innlevering  
+- TryHackMe → praktisk læring i cybersikkerhet  
+- GitHub Issues (Kanban board) → planlegging  
+
+
+
+## Dokumentasjon
+
+Underveis i prosjektet skal jeg dokumentere arbeidet mitt:
+
+- Daglig logg over hva jeg har gjort og lært  
+- Skjermbilder fra utvikling og oppgaver  
+- Forklaringer av valg og progresjon  
+- Fortløpende oppdatering av GitHub-repo  
+
+
+
+## Mål med prosjektet
+
+- Forstå grunnleggende cybersikkerhet  
+- Lære hvordan hacking og sikkerhet fungerer  
+- Kombinere teori og praktisk arbeid  
+- Vise strukturert dokumentasjon  
+- Lage en fungerende og enkel nettside  
