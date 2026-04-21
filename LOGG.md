@@ -77,7 +77,7 @@ _Ingen jobbing med prosjektet_
 
 ---
 
-#### UKE #15
+#### UKE #16
 ### Mandag | 13.04.2026
 
 #### Hva jeg gjorde?
@@ -236,5 +236,88 @@ I dag var det ikke så mange store utfordringer, men det var fortsatt litt vansk
 <img width="2529" height="1385" alt="image" src="https://github.com/user-attachments/assets/4d281bb6-c637-407d-bd10-4f6cdc3536f8" />
 
 _- Andre skjermbilder finner du ved issue_
+
+### Fredag | 17.04.2026
+##### IntresseGrupper: Powershell og Active Directory(AD) Med Peter
+_Ingen jobbing med prosjektet_
+
+---
+
+# YFF - Oppdrag : LOGG
+
+#### UKE #16
+### Mandag | 13.04.2026
+
+#### Hva jeg gjorde?
+- Idag gjort jeg ferdig først "Search skills" og overall ble jeg ferdig med Module 1. Det tok bare 3-4 min, fordi den var ikke så stor. Etter å bli ferdig med selve oppgaven. Begynte jeg å tenke på hva bør jeg gjøre. Hva skal jeg lage.
+- Jeg skjønte oppgaven som
+
+
+#### Hva skal jeg gjøre videre?
+
+
+
+#### Utfordring
+
+#### _Skjermbilder_
+##### Dokumentasjon underveis:
+
+_- Andre skjermbilder finner du ved issue_
+
+---
+
+### Tirsdag | 14.04.2026
+##### TirsdagPraksis: På bedriften
+_Ingen jobbing med prosjektet_
+
+---
+
+### Onsdag | 15.04.2026
+
+#### Hva jeg gjorde?
+
+---
+
+#### Hva skal jeg gjøre videre?
+
+---
+
+#### Utfordring
+
+
+#### _Skjermbilder_
+##### Hvordan jeg jobbet:
+
+
+_- Andre skjermbilder finner du ved issue_
+
+---
+
+### Torsdag | 16.04.2026
+
+#### Hva jeg gjorde?
+
+---
+
+#### Hva skal jeg gjøre videre?
+
+
+---
+
+#### Utfordring
+
+
+#### _Skjermbilder_
+##### Hvordan jeg jobbet:
+
+
+_- Andre skjermbilder finner du ved issue_
+
+### Fredag | 17.04.2026
+##### IntresseGrupper: Powershell og Active Directory(AD) Med Peter
+_Ingen jobbing med prosjektet_
+
+---
+
 
 
