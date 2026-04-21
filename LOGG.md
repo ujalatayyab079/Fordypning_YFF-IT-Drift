@@ -247,27 +247,51 @@ _Ingen jobbing med prosjektet_
 
 #### UKE #16
 ### Mandag | 13.04.2026
-
 #### Hva jeg gjorde?
-- Idag gjort jeg ferdig først "Search skills" og overall ble jeg ferdig med Module 1. Det tok bare 3-4 min, fordi den var ikke så stor. Etter å bli ferdig med selve oppgaven. Begynte jeg å tenke på hva bør jeg gjøre. Hva skal jeg lage.
-- Jeg skjønte oppgaven som fra en an perspektiv: og det var sånn at: jeg tenkte at vi skulle vise kompetanse innen ddet vi hadde utdypte seg inni. Så siden jeg hadde utdype meg inni "Cyber sikkerhet " tema . men jeg fikk ikke gjort så mye men det jeg fikk gjort var med notater skjermbilder og bedre forstårelse. ja så jeg da tenkte å lage en nettsiden , ikke så avansert men en info nettsiden, med intro av cyber sikkerhet, hva offensiv og defensiv sikkerhet er , hva er  pentesting , hvordan phising skjer, den andre ting jeg ville legge til var, en side me hva er de tingene som man bør være forsiktig med. og jeg fikk en ganske god PLAN for å jobbe med dette her. Så tida før lunsj hadde jeg helt plan lagt hva er det jeg skal lage og hvordan hva skal inneholde være, jeg hadde oppdatert README.md filen med det jeg hadde tenkt å gjøre.   så jeg Plan legget helt hva bør jeg starte eller gjøre etter lunsj altså planlegge helt klart plan før lunsj , slik at jeg kunne starte  rett etter pause når jeg kommer tilbake i klassen
-- Etter pausen altså stor fri 12:45 , jeg oppdaterte readme fil med det jeg hadde tenkt å gjøre. Jeg laga en "md-fil" med oppgave teksten slik at noen som ser på reposintori vet da hva jeg egentlig jobber med. Etter dette hadde begynt med selve nettsiden, laga mappestrukturen i mappene altså filutforsker , og  begynt med selve ting jeg skulle gjøre altså da nettsiden, jeg hadde allerede skrevet i Notater hva skal egentlig nettside inneholde, design var i hodet mitt fordi jeg ville ikke miste tiden på design.
-- Nei men når jeg skulle begynne så kom lærer, altså Aksel som skal være veilederen min denne uken. Jeg fikk forklart han hva som jeg utdypte meg inni og hva jeg tenker å gjøre nå. jeg følger at jeg fikk ikke forklart så godt egentlig. men ja , da lærer forklarte om hva jeg kunne gjøre med dette. Han sakt at det vi skal gjøre nå må være knyttet til "Proskjekt oppgaven". Altså at jeg kunne tenke meg hvordan jeg skal besytte nettsiden mot hackere, hvis jeg hadde publisert nettsiden min hva kunne jeg hatt gjort for å besytte den , altså å reflektere på dete. Da ble jeg litt usikker fordi det jeg hadde tenkt var annerledes og måte jeg skjønte på oppgaven var også helt annerledes, fordi jeg trodde vi skulle bare vise kompetansen i det vi hadde utdyppa meg inni.Jeg ble jo usikker men det gjort meg til å tenke om det mer seriøst og på ekte måte at hvordan hadde man liksom besyttet .
-- Så resten av tiden min brukte jeg til å tenke å utforske om dette , søkte på nette og blant ant men jeg forsatt ble usikker men ja , jeg lærte nytt tingene om cyber sikkerjhet og blant ant.
-- Da til slutt tenkte jeg å reflektere over elle rlage en risikovurdering over min nettsiden at hvordan hadde jeg besyttet nettside mitt hvis jeg hadde publisert det, fordi jeg skal j publisere det , så det var lurt å lage en Readme fil med risiko vurdering over ting jeg kunne besytte nettsiden min , og ja til slutt jeg kunne bruke den og liksom bruke selve readme inni mellom det jeg har skrevet ogv..
+- I dag gjorde jeg ferdig "Search Skills" og ble dermed ferdig med hele Module 1. Det tok ikke så lang tid siden oppgaven var ganske liten.  
+- Etter at jeg ble ferdig, begynte jeg å tenke på hva jeg skulle gjøre videre i prosjektet. Jeg forstod oppgaven først slik at vi skulle vise kompetansen vår innen det vi har fordypet oss i. Siden jeg har jobbet med cybersikkerhet, tenkte jeg å lage en enkel informasjonsnettside.  
+- Planen min var å lage en nettside med:
+  - intro til cybersikkerhet  
+  - hva offensiv og defensiv sikkerhet er  
+  - hva pentesting er  
+  - hvordan phishing fungerer  
+  - hva man bør være forsiktig med  
 
+- Før lunsj brukte jeg tiden på å planlegge prosjektet mitt. Jeg laget en tydelig plan for hva nettsiden skulle inneholde og oppdaterte `README.md` med dette. Målet var å være klar til å starte utviklingen etter pausen.
+
+- Etter lunsj (12:45) fortsatte jeg arbeidet. Jeg oppdaterte README-filen, laget en `.md`-fil med oppgaveteksten slik at det er tydelig hva prosjektet handler om, og begynte på nettsiden. Jeg opprettet mappestruktur og startet med HTML. Designet hadde jeg allerede en idé om, siden jeg ikke ønsket å bruke for mye tid på det.
+
+- Under arbeidet fikk jeg veiledning av læreren min, Aksel. Jeg forklarte hva jeg hadde gjort og hva planen min var. Jeg følte at jeg ikke forklarte det så tydelig, men jeg fikk nyttig tilbakemelding. Læreren sa at det vi lager nå bør være knyttet til prosjektet vårt (nettsiden), og at jeg burde reflektere over hvordan jeg kan sikre nettsiden min mot angrep hvis den skulle blitt publisert.
+
+- Dette gjorde meg usikker, fordi jeg først hadde en annen forståelse av oppgaven. Jeg trodde fokuset kun var å vise hva jeg hadde lært. Etter samtalen begynte jeg å tenke mer realistisk: hvordan man faktisk ville sikret en nettside i virkeligheten.
+
+- Resten av tiden brukte jeg på å utforske dette temaet. Jeg søkte på nettet og prøvde å forstå mer om cybersikkerhet i praksis. Selv om jeg fortsatt var litt usikker, lærte jeg nye ting.
+
+- Til slutt bestemte jeg meg for å lage en risikovurdering av nettsiden min. Jeg vil reflektere over hva som kan gå galt og hvordan nettsiden kan beskyttes hvis den blir publisert. Dette skal jeg skrive i README-filen.
+
+---
 
 #### Hva skal jeg gjøre videre?
-- Jeg tenkter å lage ne README.md fil med Risikovudering over nettside mitt , som skal reflektere over hvordan kan man besytte nettsiden sin " FRa alle sider / persperktiver.
-- jeg skal utforske litt mer om cyber sikkerhet , og skal tenke overall , i steden for bare det jeg har lært på Try hack me.
--
+- Lage en del i `README.md` med risikovurdering av nettsiden min  
+- Reflektere over hvordan man kan beskytte en nettside fra ulike perspektiver  
+- Utforske mer om cybersikkerhet utover TryHackMe  
+- Finne ut:
+  - hva som kan gå galt med en nettside  
+  - hvordan man kan beskytte den  
+  - hva som kjennetegner en sikker nettside  
 
+- Målet er å bruke denne kunnskapen til å lage en god og realistisk risikovurdering
 
-#### Utfordring
+---
+
+#### Utfordringer
+- Jeg hadde en god plan i starten av timen og kom godt i gang, men jeg snakket ikke med lærer før jeg begynte. I ettertid ser jeg at det hadde vært lurt å få bekreftelse tidlig.  
+- Den største utfordringen var at jeg måtte endre planen min etter veiledning. Dette gjorde meg usikker og gjorde det vanskelig å komme i gang igjen.  
+- Jeg følte også at jeg hadde mistet litt tid, men samtidig hjalp det meg til å tenke mer realistisk og forstå oppgaven bedre.
+- Men jeg synes at det var en ny opplevelse, og at jeg lærte noe nytt.
 
 #### _Skjermbilder_
 ##### Dokumentasjon underveis:
-
 _- Andre skjermbilder finner du ved issue_
 
 ---
