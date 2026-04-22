@@ -65,78 +65,82 @@ All dokumentasjon, inkludert skjermbilder, konfigurasjonsfiler og logg, vil bli 
 
 ---
 
-# Uke # 17: YFF - OPPDRAG
-Jeg skal i dette prosjektet lage en enkel informasjonsnettside om cybersikkerhet. Nettsiden skal vise hva jeg har lært gjennom fordypning i TryHackMe og egen research innen IT-drift.
+# Uke #17: YFF – Oppdrag
 
-Prosjektet kombinerer teori og praktisk arbeid, og alt arbeid skal dokumenteres og lastes opp til GitHub.
-
-
-
-## Hva jeg skal gjøre
-
-- Lage en informasjonsnettside om cybersikkerhet  
-- Forklare grunnleggende konsepter innen IT-sikkerhet  
-- Inkludere offensive og defensive security  
-- Forklare hva pentesting er  
-- Lage en enkel risikovurdering  
-- Dokumentere hele prosessen med logg og skjermbilder  
-- Laste opp alt til GitHub  
+Oppgaven handler om at jeg skal lage et prosjekt som er knyttet til det jeg har lært i fordypning (TryHackMe og cybersikkerhet). Målet er å bruke kunnskapen jeg har fått til å lage dokumentasjon og en risikovurdering.
 
 ---
 
-## Innhold i nettsiden
+##  Hva jeg skal gjøre
 
-### 1. Intro til Cyber Security
-Kort forklaring av hva cybersikkerhet er og hvorfor det er viktig.
+- Lage en risikovurdering for en nettside/nettbutikk  
+- Skrive daglig LOGG over hva jeg jobber med  
+- Dokumentere hele prosessen med tekst og skjermbilder  
+- Laste opp alt arbeid til GitHub  
+- Lage en strukturert README med forklaringer og refleksjon  
 
-### 2. Offensive Security
-Forklaring av hvordan etisk hacking brukes til å finne svakheter i systemer (pentesting).
 
-### 3. Defensive Security
-Forklaring av hvordan systemer beskyttes mot angrep (firewall, antivirus, oppdateringer).
 
-### 4. Pentesting
-Kort forklaring av penetration testing og hvordan sikkerhet testes i praksis.
+###  Risikovurdering
 
-### 5. Risikovurdering
-En enkel vurdering av hva som kan gå galt i et digitalt system:
+Jeg skal lage en enkel risikovurdering av en nettside/nettbutikk og forklare hva som kan gå galt i et digitalt system.
 
-- phishing  
-- svake passord  
-- brukerfeil  
+Jeg skal ta med risikoer som:
+
+- Phishing  
+- Svake passord  
+- Brukerfeil  
+- Malware  
+- Manglende sikkerhet (f.eks. HTTPS eller oppdateringer)  
 
 For hver risiko skal jeg forklare:
-- hva som kan skje  
-- hvor alvorlig det er  
-- hvordan det kan løses  
+
+- Hva som kan skje  
+- Hvor alvorlig risikoen er  
+- Hvordan risikoen kan forebygges eller løses  
 
 
 
-## Bruk av programmer og verktøy
+###  TryHackMe – grunnleggende cybersikkerhet - Markdown fil
 
-- HTML → struktur på nettsiden  
-- CSS → design og layout  
-- GitHub → lagring, logg og innlevering  
-- TryHackMe → praktisk læring i cybersikkerhet  
-- GitHub Issues (Kanban board) → planlegging  
+Jeg lager denne Markdown-filen for å samle det jeg har lært i TryHackMe og dokumentere læringsprosessen min i prosjektet. Filen brukes for å vise hva jeg har lært om cybersikkerhet, og for å ha en ryddig oversikt i GitHub.
+
+Jeg lager den fordi jeg vil:
+- samle alt jeg har lært på ett sted  
+- dokumentere læring på en strukturert måte  
+- vise forståelse av cybersikkerhet i praksis  
+- bruke kunnskapen i risikovurdering og andre deler av prosjektet  
+- ha oversikt over viktige begreper og temaer  
+- vise progresjon og læringsprosess i logg og GitHub  
+
+Filen inneholder derfor notater fra TryHackMe, grunnleggende cybersikkerhet, viktige begreper og refleksjon over det jeg har lært.
+
+
+###  Bruk av programmer og verktøy
+
+- **GitHub** → lagring, dokumentasjon og innlevering  
+- **TryHackMe** → praktisk læring i cybersikkerhet  
+- **GitHub Issues (Kanban board)** → planlegging av arbeid  
+- **Markdown (README/LOGG)** → strukturert dokumentasjon  
+- **Kilder som Telenor og Forsvaret** → informasjon om sikkerhet og trusler  
 
 
 
-## Dokumentasjon
+###  Dokumentasjon
 
-Underveis i prosjektet skal jeg dokumentere arbeidet mitt:
+Underveis i prosjektet skal jeg dokumentere alt arbeid:
 
-- Daglig logg over hva jeg har gjort og lært  
-- Skjermbilder fra utvikling og oppgaver  
+- Daglig logg over hva jeg jobber med  
+- Skjermbilder fra oppgaver og utvikling  
 - Forklaringer av valg og progresjon  
 - Fortløpende oppdatering av GitHub-repo  
 
 
 
-## Mål med prosjektet
+###  Mål med prosjektet
 
-- Forstå grunnleggende cybersikkerhet  
-- Lære hvordan hacking og sikkerhet fungerer  
+- Lære grunnleggende cybersikkerhet  
+- Forstå hvordan hacking og sikkerhet fungerer  
 - Kombinere teori og praktisk arbeid  
-- Vise strukturert dokumentasjon  
-- Lage en fungerende og enkel nettside  
+- Vise god struktur i dokumentasjon  
+- Lage en tydelig og oversiktlig innlevering  
