@@ -291,8 +291,16 @@ _Ingen jobbing med prosjektet_
 - Men jeg synes at det var en ny opplevelse, og at jeg lærte noe nytt.
 
 #### _Skjermbilder_
-##### Dokumentasjon underveis:
+##### Hvordan jeg jobba:
+<img width="2551" height="1384" alt="Skjermbilde 2026-04-22 103738" src="https://github.com/user-attachments/assets/f643d735-853d-4a92-90aa-24e71f714554" />
+
+##### Den første plannen min:
+<img width="488" height="840" alt="Skjermbilde 2026-04-22 142212" src="https://github.com/user-attachments/assets/5d8c9aa8-e9e1-4a60-af48-c04f434af450" />
+
 _- Andre skjermbilder finner du ved issue_
+
+
+
 
 ---
 
@@ -305,24 +313,48 @@ _Ingen jobbing med prosjektet_
 
 ### Onsdag | 15.04.2026
 
-#### Hva jeg gjorde?
- Jeg var forsatt usikker på hva skal jeg gjøre hvor skal jeg begynne fra hva jeg bør gjøre, jeg sitta litt og utforske lit tom det.
-Ferdig laget risikovudering
+#### Hva jeg gjorde
 
----
+I starten av dagen var jeg litt usikker på hva jeg skulle gjøre og hvor jeg skulle begynne i prosjektet mitt. Jeg satte meg ned og prøvde å utforske litt, men det var vanskelig å komme i gang.
 
-#### Hva skal jeg gjøre videre?
-- Lage en refleksjonsnotat
-- Lage en readme om det jeg lærte i Try Hack Me
-- Jobbing med logg
----
+Etter en stund kom Simen bort og spurte hvordan det gikk med prosjektet. Jeg forklarte hva jeg jobbet med og at jeg var litt usikker på hvordan jeg skulle starte. Etter samtalen fikk jeg bedre forståelse og mer motivasjon til å fortsette.
 
-#### Utfordring
+Senere begynte jeg å søke på nettet om risikovurdering, siden læreren tidligere hadde snakket om at dette er viktig i prosjektet. Jeg fikk sett eksempler og lærte hvordan en risikovurdering er bygget opp.
 
+Dette hjalp meg mye, og jeg begynte å lage min egen risikovurdering i README-filen. Før klokken 12:00 hadde jeg ferdigstilt en god versjon av risikovurderingen. Jeg var ganske fornøyd med resultatet.
+
+I risikovurderingen skrev jeg om hva som kan gå galt hvis nettsiden min publiseres, hvilke risikoer som kan oppstå, hvor sannsynlige de er, og hvilke tiltak som kan redusere risikoen. Totalt laget jeg 8 risikoer med tiltak og vurdering.
+
+Jeg la også til en tabell med korte stikkord for alle risikoene, slik at det er enklere å få oversikt. Til slutt skrev jeg refleksjon, konklusjon og bekreftelse. Jeg la også inn bilder og kilder for å gjøre dokumentasjonen mer profesjonell.
+
+Etter at jeg var ferdig hadde jeg omtrent 10 minutter igjen, som jeg brukte til å skrive logg.
+
+Senere på dagen dro jeg på biblioteket etter skolen (ca. kl. 14:15) for å bli ferdig med prosjektet. Der fullførte jeg README-filen for YFF IT-drift prosjektet mitt om TryHackMe. Jeg skrev alt jeg hadde lært, inkludert begrepsliste, tabeller og forklaringer om cybersikkerhet.
+
+Jeg ble ferdig rundt kl. 15:45, og brukte de siste 15 minuttene til å forbedre loggen min.
+
+
+
+#### Hva skal jeg gjøre videre
+
+Videre er prosjektet nesten ferdig, og det som gjenstår er innlevering.
+
+På torsdag har jeg kun en kort arbeidsøkt fra 10:30 til 11:30. Da planlegger jeg å lage et refleksjonsnotat og eventuelt finpusse arbeidet.
+
+Jeg skal også lage en kort veiledning i Word som forklarer hvor læreren kan finne de ulike delene av prosjektet (GitHub, logg og README). Dette gjør det enklere å navigere i innleveringen.
+
+
+
+#### Utfordringer
+
+Den største utfordringen var fortsatt å komme i gang, fordi oppgaven var ny og litt ukjent for meg. Det var vanskelig å vite nøyaktig hva jeg skulle gjøre i starten.
+
+Etter å ha snakket med lærer og fått eksempler, fikk jeg bedre forståelse og mer trygghet i arbeidet mitt. Dette hjalp meg til å komme i gang og jobbe mer effektivt.
 
 #### _Skjermbilder_
-##### Hvordan jeg jobbet:
 
+##### Hvordan jeg jobbet:
+<img width="2551" height="1384" alt="Skjermbilde 2026-04-22 103738" src="https://github.com/user-attachments/assets/f643d735-853d-4a92-90aa-24e71f714554" />
 
 _- Andre skjermbilder finner du ved issue_
 
