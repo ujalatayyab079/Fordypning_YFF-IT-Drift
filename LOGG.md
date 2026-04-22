@@ -299,17 +299,22 @@ _- Andre skjermbilder finner du ved issue_
 ### Tirsdag | 14.04.2026
 ##### TirsdagPraksis: På bedriften
 _Ingen jobbing med prosjektet_
+- Selvom jeg var på tirsdag praksis forsatt jeg jobba med logg i død tiden der.
 
 ---
 
 ### Onsdag | 15.04.2026
 
 #### Hva jeg gjorde?
+ Jeg var forsatt usikker på hva skal jeg gjøre hvor skal jeg begynne fra hva jeg bør gjøre, jeg sitta litt og utforske lit tom det.
+Ferdig laget risikovudering
 
 ---
 
 #### Hva skal jeg gjøre videre?
-
+- Lage en refleksjonsnotat
+- Lage en readme om det jeg lærte i Try Hack Me
+- Jobbing med logg
 ---
 
 #### Utfordring
@@ -325,6 +330,7 @@ _- Andre skjermbilder finner du ved issue_
 
 ### Torsdag | 16.04.2026
 
+_-Innleveringsdag_
 #### Hva jeg gjorde?
 
 ---
@@ -345,7 +351,7 @@ _- Andre skjermbilder finner du ved issue_
 
 ### Fredag | 17.04.2026
 ##### IntresseGrupper: Powershell og Active Directory(AD) Med Peter
-_Ingen jobbing med prosjektet_
+_Ingen jobbing med prosjektet - Prosjekte er levert på Torsdag_
 
 ---
 
