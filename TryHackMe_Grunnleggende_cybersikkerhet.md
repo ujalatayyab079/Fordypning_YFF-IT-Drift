@@ -189,7 +189,7 @@ God nettsikkerhet handler om å kombinere tekniske tiltak som 2FA, oppdateringer
 
 ## Begrepsliste: Alle begreper jeg lærte (TryHackMe - Cybersikkerhet)
 
-
+<img src="https://github.com/user-attachments/assets/ca685a97-0e3d-48bf-9f34-a040024b4a4d" width="1100">
 
 #### Generelle begreper
 - **Simulering:** Teste noe som om det var ekte  
