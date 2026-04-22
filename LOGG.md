@@ -297,6 +297,9 @@ _Ingen jobbing med prosjektet_
 ##### Den første plannen min:
 <img width="488" height="840" alt="Skjermbilde 2026-04-22 142212" src="https://github.com/user-attachments/assets/5d8c9aa8-e9e1-4a60-af48-c04f434af450" />
 
+##### Den andre planen min: 
+<img width="604" height="845" alt="image" src="https://github.com/user-attachments/assets/d7a2a6e5-09f9-4a3a-a1ac-334ad7da5942" />
+
 _- Andre skjermbilder finner du ved issue_
 
 
