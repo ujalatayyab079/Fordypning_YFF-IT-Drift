@@ -269,7 +269,6 @@ _Ingen jobbing med prosjektet_
 
 - Til slutt bestemte jeg meg for å lage en risikovurdering av nettsiden min. Jeg vil reflektere over hva som kan gå galt og hvordan nettsiden kan beskyttes hvis den blir publisert. Dette skal jeg skrive i README-filen.
 
----
 
 #### Hva skal jeg gjøre videre?
 - Lage en del i `README.md` med risikovurdering av nettsiden min  
@@ -282,7 +281,7 @@ _Ingen jobbing med prosjektet_
 
 - Målet er å bruke denne kunnskapen til å lage en god og realistisk risikovurdering
 
----
+
 
 #### Utfordringer
 - Jeg hadde en god plan i starten av timen og kom godt i gang, men jeg snakket ikke med lærer før jeg begynte. I ettertid ser jeg at det hadde vært lurt å få bekreftelse tidlig.  
@@ -300,7 +299,7 @@ _Ingen jobbing med prosjektet_
 ##### Den andre planen min: 
 <img width="604" height="845" alt="image" src="https://github.com/user-attachments/assets/d7a2a6e5-09f9-4a3a-a1ac-334ad7da5942" />
 
-_- Andre skjermbilder finner du ved issue_
+
 
 
 
@@ -359,7 +358,7 @@ Etter å ha snakket med lærer og fått eksempler, fikk jeg bedre forståelse og
 ##### Hvordan jeg jobbet:
 <img width="2551" height="1384" alt="Skjermbilde 2026-04-22 103738" src="https://github.com/user-attachments/assets/f643d735-853d-4a92-90aa-24e71f714554" />
 
-_- Andre skjermbilder finner du ved issue_
+
 
 ---
 
@@ -367,22 +366,30 @@ _- Andre skjermbilder finner du ved issue_
 
 _-Innleveringsdag_
 #### Hva jeg gjorde?
+Idag hadde jeg begynte med å lage en word filen med oversikt over hvordan du kan finne og hvor i fra hvilken mappene eller filer som gjelder for selve oppdraget. Jeg har laga filen fordi da er det lett for lærer å finne ut hva jeg har gjort, tenkte å levere filen i teams i steden for pushe i git hub fordi da kan lærer se.
+resten av tiden brukte jeg på logg og siden det er innelevering dag da, for at jeg kan levere oppgaven.
+
+Jeg føler sånn at jeg fikk gjort det jeg måtte og jeg lærte ganske mye fra alt jeg jobba med fra tryhack me og å lage en risikovudering å, når jeg bytta plan , så begynte jeg å tenke mer ekte og sånn mer faglig , og det er det jeg lærte at det er ikke å besymre over hvis plannen blir anneledes eller byttes det er bare å tenke rolig og begynne.
 
 ---
 
 #### Hva skal jeg gjøre videre?
 
+det er ikke noe videre oppgaven , det er bare å innelever
 
 ---
 
 #### Utfordring
-
+det var ingen utfordring idag, jeg fikk gjort som jeg ville , siden jeg sitta i går å jobbe til klokken 5:00 så fikk jeg gjort det jeg måtte og det som var viktig.. det er derfor alt gikk rolig dagen i dag
 
 #### _Skjermbilder_
-##### Hvordan jeg jobbet:
+##### Brukerveiledning jeg laga:
 
+<img width="1246" height="1366" alt="image" src="https://github.com/user-attachments/assets/a71dd057-4d4b-4fad-967c-48665020b093" />
 
-_- Andre skjermbilder finner du ved issue_
+##### Jobbing med logg og Brukerveiledning:
+<img width="2557" height="1392" alt="image" src="https://github.com/user-attachments/assets/f7dd08d6-4e05-4720-90e0-35b9c0db29e2" />
+
 
 ### Fredag | 17.04.2026
 ##### IntresseGrupper: Powershell og Active Directory(AD) Med Peter
