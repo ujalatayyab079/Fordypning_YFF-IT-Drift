@@ -363,24 +363,27 @@ Etter å ha snakket med lærer og fått eksempler, fikk jeg bedre forståelse og
 ---
 
 ### Torsdag | 16.04.2026
-
 _-Innleveringsdag_
+
+### Torsdag | 16.04.2026
 #### Hva jeg gjorde?
-Idag hadde jeg begynte med å lage en word filen med oversikt over hvordan du kan finne og hvor i fra hvilken mappene eller filer som gjelder for selve oppdraget. Jeg har laga filen fordi da er det lett for lærer å finne ut hva jeg har gjort, tenkte å levere filen i teams i steden for pushe i git hub fordi da kan lærer se.
-resten av tiden brukte jeg på logg og siden det er innelevering dag da, for at jeg kan levere oppgaven.
+I dag begynte jeg med å lage en Word-fil med oversikt over hvordan man kan finne frem til riktige mapper og filer i prosjektet mitt. Jeg laget denne filen fordi det gjør det enklere for læreren å forstå hva jeg har gjort og hvor de ulike delene av oppgaven ligger. Jeg valgte å levere denne filen i Teams i stedet for å pushe den til GitHub, slik at det blir mer oversiktlig og lett tilgjengelig.
 
-Jeg føler sånn at jeg fikk gjort det jeg måtte og jeg lærte ganske mye fra alt jeg jobba med fra tryhack me og å lage en risikovudering å, når jeg bytta plan , så begynte jeg å tenke mer ekte og sånn mer faglig , og det er det jeg lærte at det er ikke å besymre over hvis plannen blir anneledes eller byttes det er bare å tenke rolig og begynne.
+Resten av tiden brukte jeg på å skrive ferdig loggen, siden det er innleveringsdag. Jeg ville sikre at alt arbeid var ferdig og klart til levering, og at dokumentasjonen min var ryddig og komplett.
 
----
+Jeg føler at jeg fikk gjort det jeg måtte gjøre, og jeg er fornøyd med resultatet. Jeg har lært ganske mye gjennom dette prosjektet, spesielt fra TryHackMe og arbeidet med risikovurdering. Når jeg endret planen underveis, begynte jeg å tenke mer realistisk og faglig, og det gjorde arbeidet bedre.
+
+Det jeg har lært er at det er helt greit å endre plan underveis. Det viktigste er å holde roen og jobbe videre, selv om man er litt usikker i starten.
+
 
 #### Hva skal jeg gjøre videre?
-
-det er ikke noe videre oppgaven , det er bare å innelever
-
----
+Det er ikke noe mer arbeid som gjenstår. Nå handler det bare om å levere oppgaven.
 
 #### Utfordring
-det var ingen utfordring idag, jeg fikk gjort som jeg ville , siden jeg sitta i går å jobbe til klokken 5:00 så fikk jeg gjort det jeg måtte og det som var viktig.. det er derfor alt gikk rolig dagen i dag
+Det var ingen store utfordringer i dag. Jeg fikk gjort det jeg skulle, og dagen gikk rolig.
+
+Jeg jobbet mye dagen før (helt til klokken 17:00), så det meste av arbeidet var allerede gjort. Derfor kunne jeg bruke denne dagen til å fullføre og gjøre alt klart til innlevering.
+Levert oppgave 11:30 
 
 #### _Skjermbilder_
 ##### Brukerveiledning jeg laga:
